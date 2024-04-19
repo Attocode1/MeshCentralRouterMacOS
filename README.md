@@ -3,7 +3,7 @@ MeshCentral Router
 
 For more information, [visit MeshCommander.com/MeshCentral2](http://www.meshcommander.com/meshcentral2).
 
-Download the [full PDF user's guide](http://info.meshcentral.com/downloads/MeshCentral2/MeshCentral2RouterUserGuide-0.0.2.pdf) with more information on using the MeshCentral Router.
+Download the [full PDF user's guide](https://meshcentral.com/docs/MeshCentral2RouterUserGuide.pdf) with more information on using the MeshCentral Router.
 
 MeshCentral Router for macOS allows is a TCP port mapping tool. You first needs to have an account on a MeshCentral server like [MeshCentral.com](https://meshcentral.com) or your own server. You can then run MeshCentral Router, login to your account that start performing port mappings.
 
